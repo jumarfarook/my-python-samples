@@ -4,4 +4,4 @@
 - 👀 I’m interested in devOps, sre and cloud
 - 🌱 I’m currently learning python and devops tools
 - 💞️ I’m looking to collaborate on python coding
-- 📫 How to reach me ???
+- 📫 How to reach me - write me an email
